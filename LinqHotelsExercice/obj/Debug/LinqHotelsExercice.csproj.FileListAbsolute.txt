@@ -1,0 +1,10 @@
+c:\users\henrikh\documents\visual studio 2013\Projects\LinqHotelsExercice\LinqHotelsExercice\bin\Debug\LinqHotelsExercice.exe.config
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 2 nd semester\LinqHotelsExercice\LinqHotelsExercice\bin\Debug\LinqHotelsExercice.exe.config
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 2 nd semester\LinqHotelsExercice\LinqHotelsExercice\bin\Debug\LinqHotelsExercice.exe
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 2 nd semester\LinqHotelsExercice\LinqHotelsExercice\bin\Debug\LinqHotelsExercice.pdb
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 2 nd semester\LinqHotelsExercice\LinqHotelsExercice\obj\Debug\LinqHotelsExercice.csprojResolveAssemblyReference.cache
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 2 nd semester\LinqHotelsExercice\LinqHotelsExercice\obj\Debug\LinqHotelsExercice.exe
+C:\Users\MIHAI\Documents\Visual Studio 2015\Projects 2 nd semester\LinqHotelsExercice\LinqHotelsExercice\obj\Debug\LinqHotelsExercice.pdb
+E:\school\Projects 2 nd semester\LinqHotelsExercice\LinqHotelsExercice\bin\Debug\LinqHotelsExercice.exe.config
+E:\school\Projects 2 nd semester\LinqHotelsExercice\LinqHotelsExercice\obj\Debug\LinqHotelsExercice.exe
+E:\school\Projects 2 nd semester\LinqHotelsExercice\LinqHotelsExercice\obj\Debug\LinqHotelsExercice.pdb
